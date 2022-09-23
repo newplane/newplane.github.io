@@ -3,7 +3,7 @@ permalink: pretty
 title: 'NeoPlane'
 
 logo:
-  mobile: "images/logo/neoplane-logo-mobile.png"
+  mobile: "images/logo/neoplane-logo-only.png"
   mobile_height: "32px"
   mobile_width: "32px"
   desktop: "images/logo/neoplane-logo.png"
