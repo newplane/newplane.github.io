@@ -15,6 +15,6 @@ Please contact [sales@nextepc.com](mailto:sales@nextepc.com) for more informatio
 
 ## [sysmocom](https://sysmocom.de)
 
-Sysmocom was founded in Berlin, Germany by two veterans of the Free / Open Source Software (FOSS) community. They is providing commercial services around Open5GS open source software including support, development, consulting, training and system integration.
+Sysmocom was founded in Berlin, Germany by two veterans of the Free / Open Source Software (FOSS) community. They are providing commercial services around Open5GS open source software including support, development, consulting, training and system integration.
 
 Please contact [Harald Welte \<sales@sysmocom.de\>](mailto:sales@sysmocom.de) for any related inquiries.
