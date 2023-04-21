@@ -9,7 +9,7 @@ We work with leading partners in mobile communications to offer our customers co
 
 ## [NextEPC](https://nextepc.com)
 
-Established in U.S. in 2019, NextEPC Inc. provides the latest wireless telecommunications technologies and outstanding support to wireless solution providers and vendors around the world. Their solutions include scalable and versatile 4G/5G core network systems. They also offer professional development and customization services for Enterprise users.
+Established in U.S. in 2019, NextEPC Inc. provides the latest wireless telecommunications technologies and outstanding support to wireless solution providers and vendors around the world. Their solutions include scalable and versatile 4G/5G core network systems, recently a commercial-grade DPDK-accelerated UPF is also available. They offer professional development and customization services for Enterprise users.
 
 Please contact [sales@nextepc.com](mailto:sales@nextepc.com) for more informations.
 
