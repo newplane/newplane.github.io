@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Indirect Communication",
+    "description": "SCP simplifies network topology by applying signal aggregation and routing, load balancing, overload handling, and message parameter harmonization.",
+    "image": {
+      "url": "images/features/indirect.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Seamlessly Core Evolution",
+    "description": "'One Core' for multi-accesses can operate as a 4G EPC, 5G NSA and/or 5G SA, thus allowing for smooth migration from existing network capabilities.",
+    "image": {
+      "url": "images/features/evolution.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Voice-enabled Networks",
+    "description": "VoLTE/VoNR is available in LTE/5G networks, and if LTE and VoLTE are already widely deployed, introduction of VoNR can be made smoothly.",
+    "image": {
+      "url": "images/features/voice.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
