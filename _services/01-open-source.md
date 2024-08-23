@@ -1,9 +1,11 @@
 ---
-title: "Open Source"
-date: 2022-09-10T12:05:00+09:00
+title: "Collaborating on Open Source"
+date: 2024-08-23T14:10:00+09:00
 weight: 1
 ---
 
-NewPlane opens codes for open communication between internal and external developers, so that they can learn and grow together.
+At NewPlane, we actively advance Open5GS and collaborate with the global community to drive 5G technology forward.
 
-**[Open5GS](https://open5gs.org):** Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network.
+At [NewPlane](https://newplane.io), we are committed to advancing [Open5GS](https://open5gs.org), an open-source implementation for 5G Core and EPC. Through our active involvement, we aim to enhance its capabilities and stay at the forefront of 5G technology, leveraging our expertise and insights gained from the global developer community.
+
+Our partnership with Open5GS reflects our broader dedication to open-source collaboration. By working closely with the global community, we seek to drive the advancement of 5G technology and explore new possibilities for connectivity.

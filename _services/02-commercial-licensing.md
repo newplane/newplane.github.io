@@ -1,14 +1,14 @@
 ---
 title: "Commercial Licensing"
-date: 2022-09-10T12:05:00+09:00
+date: 2024-08-23T16:36:00+09:00
 weight: 2
 ---
 
 
-Open5GS is licensed under a dual licensing model designed to meet the development and distribution needs of both commercial and open source projects.
+Open5GS operates under a dual licensing model, catering to the needs of both commercial and open-source projects.
 
-The commercial Open5GS license gives you the full rights to create and distribute software on your own terms without any open source license obligations. You can grow with Open5GS by establishing a close strategic relationship with [NewPlane](https://newplane.io).
+The commercial [Open5GS](https://open5gs.org) license grants you complete rights to develop and distribute your software with no open-source license obligations. By opting for a commercial license, you can leverage Open5GS to its fullest potential while establishing a strategic partnership with [NewPlane](https://newplane.io).
 
-Open5GS is also available under AGPL-3.0 open source licenses. The Open5GS open source licensing is ideal for use cases such as open source projects with open source distribution, student/academic purposes, hobby projects, internal research projects without external distribution, or other projects where all AGPL-3.0 obligations can be met.
+For those who prefer open-source, Open5GS is also available under the [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.txt) license. This open-source licensing option is ideal for projects such as open-source distributions, academic research, hobbyist endeavors, internal research without external distribution, or any project where all AGPL-3.0 requirements are met.
 
-If your legal department has policies regarding use of software licensed under the AGPL, you may prefer to have a commercial license. Contact [\<sales@newplane.io\>](mailto:sales@newplane.io) for more information on commercial licenses.
+If your legal team has concerns about the use of AGPL-licensed software, a commercial license may be a better fit. For more details on commercial licensing, please contact us at [\<sales@newplane.io\>](mailto:sales@newplane.io).
