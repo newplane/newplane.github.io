@@ -1,5 +1,5 @@
 ---
-title: NeoPlane
+title: NewPlane
 layout: home
 description: 5G for everyone
 #intro_image: "images/illustrations/pointing.svg"

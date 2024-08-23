@@ -1,4 +1,4 @@
-﻿# neoplane.io
+﻿# newplane.io
 
 This site is built with [jekyll](https://jekyllrb.com/). Site content is written in Markdown format.
 

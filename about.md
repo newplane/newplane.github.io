@@ -5,10 +5,8 @@ description: About
 bodyClass: page-about
 ---
 
-# The story of NeoPlane, a company that makes Open5GS
+# NewPlane Collaborates with Open5GS Visionary to Empower Enterprise Networks
 
-NeoPlane was founded by Sukchan Lee, creator of [Open5GS](https://open5gs.org).
+NewPlane is a company in the private 5G/LTE network space, headed by our CEO, Sejin Kim. We are privileged to collaborate with Sukchan Lee, the creator of [Open5GS](https://open5gs.org), as we strive to innovate and deliver reliable solutions to our clients.
 
-We have a singular focus on delivering commerical-grade products that support building private 5G/LTE network.
-
-Our products will be successfully piloted and commercialized by enterprises around the world covering a wide range of scenarios including campus private networks, public services, healthcare and remote offices.
+Our primary focus is on developing high-quality products that enable the construction of private 5G/LTE networks. We are proud to see our solutions successfully piloted and commercialized by enterprises worldwide, supporting a diverse range of scenarios including campus private networks, public services, healthcare, and remote offices.
