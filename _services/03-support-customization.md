@@ -11,4 +11,4 @@ At our company, we are dedicated to providing exceptional support for Open5GS. W
 
 In addition to technical support, we offer targeted customization and modification services to address particular needs. If you require specific features or adjustments, we can work with you to implement solutions that enhance your experience.
 
-Please feel free to contact us at [\<support@newplane.io\>](mailto:support@newplane.io) for any support or customization inquiries related to Open5GS. We are committed to ensuring our solutions meet your needs and operate smoothly for you.
+Please feel free to contact us at [support@newplane.io](mailto:support@newplane.io) for any support or customization inquiries related to Open5GS. We are committed to ensuring our solutions meet your needs and operate smoothly for you.
