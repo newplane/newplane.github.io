@@ -1,9 +1,9 @@
 ---
 title: "Commercial Licensing"
+description: "Open5GS operates under a dual licensing model, catering to the needs of both commercial and open-source projects."
 date: 2024-08-23T16:36:00+09:00
 weight: 2
 ---
-
 
 Open5GS operates under a dual licensing model, catering to the needs of both commercial and open-source projects.
 

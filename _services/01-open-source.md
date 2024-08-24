@@ -1,5 +1,6 @@
 ---
 title: "Collaborating on Open Source"
+description: "At NewPlane, we actively advance Open5GS and collaborate with the global community to drive 5G technology forward."
 date: 2024-08-23T14:10:00+09:00
 weight: 1
 ---

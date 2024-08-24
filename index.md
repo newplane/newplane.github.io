@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 #show_call_box: true
 ---
 
-# 5G for everyone
+# Supercharge Open5GS Now
 
-Enhance your Open5GS with NewPlane’s licensing and support solutions.
+Enhance your Open5GS experience with NewPlane’s comprehensive support and services.

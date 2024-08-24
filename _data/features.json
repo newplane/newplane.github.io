@@ -1,7 +1,7 @@
 [
   {
     "title": "5G Roaming",
-    "description": "Experience global connectivity with our 5G Core’s advanced roaming, seamlessly enabled by SEPP technology for uninterrupted service worldwide.",
+    "description": "Experience unparalleled global connectivity with our 5G Core’s advanced roaming capabilities, supported by SEPP, ensuring uninterrupted and secure service across the globe.",
     "image": {
       "url": "images/features/indirect.svg",
       "width": 80,
@@ -10,7 +10,7 @@
   },
   {
     "title": "Seamlessly Core Evolution",
-    "description": "'One Core' for multi-accesses can operate as a 4G EPC, 5G NSA and/or 5G SA, thus allowing for smooth migration from existing network capabilities.",
+    "description": "Supporting 4G EPC, 5G NSA, and 5G SA, our solution enables a seamless evolution of your core network, facilitating smooth transitions and future-proofing your infrastructure.",
     "image": {
       "url": "images/features/evolution.svg",
       "width": 80,
@@ -19,7 +19,7 @@
   },
   {
     "title": "Voice-enabled Networks",
-    "description": "VoLTE/VoNR is available in LTE/5G networks, and if LTE and VoLTE are already widely deployed, introduction of VoNR can be made smoothly.",
+    "description": "Our network supports both VoLTE and VoNR, ensuring high-quality voice services across LTE and 5G networks while facilitating a smooth transition to next-generation voice technologies.",
     "image": {
       "url": "images/features/voice.svg",
       "width": 80,
